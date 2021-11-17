@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\5de9ef9b5115f9c81a817d2cb541ab37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\8d517a43864edd31bab02a2a728aaa70\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\7cdb33be9b2dd67831f1bb7f66827eca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\a8583b34de403bc540855de5488bd4b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\57ccebe037f76764f3eb24c9d364392e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\eb401691167f8b8a0f605989953c36bb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\12fd5eb6df01f1c03d049e5cba0085a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\035ccb55ee968bbf9ef57de1172821bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\41fcef1a92b77b3ba8980ffe3de17c7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\0adba16cdf89efcf347f22da9e3e82a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\8611477093332e3309442a5a61de45f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\6f72a2043b8ed7777d9cad0cf88be70f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\328c47f4d5c522c6011d72c7bb4ade74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\3e4b1c3b430329d7a0670f09a8c8a6e1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\02aa1360ee3782e7c509f9d1982b30e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\9df46fb0a97318e190a41d0d8270be51\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\f10a9901600280615c81d2a7404d5f3a\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\05f1d4876cbb6d33ed550ea3314e1425\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\286e8ffb728127ad23d26aa7346eceb3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\967820968b43db83f041f3e28230318e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\b3bc116b4b8b1e606820b38fa5aac648\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\e466d358ac2e84ae4d047d335a9d0fbb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\9e2f5411165c55fa9a7efbc7b5713125\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\592804ff14c7398321e27510604df608\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\54e085a655e20ee14194789df605734f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\b8f4e9142130e71181ebbe82ae57d000\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\4ab63a319ea91604710e374d1c20e31f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\8d517a43864edd31bab02a2a728aaa70\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\8d517a43864edd31bab02a2a728aaa70\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\9df46fb0a97318e190a41d0d8270be51\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\9df46fb0a97318e190a41d0d8270be51\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\f10a9901600280615c81d2a7404d5f3a\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\f10a9901600280615c81d2a7404d5f3a\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\9df46fb0a97318e190a41d0d8270be51\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.projekt_lk_00.MainActivity
+ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.projekt_lk_00.QuestionsView
+ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:19:19-48
+activity#com.example.projekt_lk_00.QuestionView
+ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:20:19-47
+activity#com.example.projekt_lk_00.CreateAnswer
+ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:21:9-50
+	android:name
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:21:19-47
+activity#com.example.projekt_lk_00.CreateQuestion
+ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:22:9-52
+	android:name
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:22:19-49
+activity#com.example.projekt_lk_00.Registration
+ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:23:9-50
+	android:name
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml:23:19-47
+uses-sdk
+INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\5de9ef9b5115f9c81a817d2cb541ab37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\5de9ef9b5115f9c81a817d2cb541ab37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\8d517a43864edd31bab02a2a728aaa70\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\8d517a43864edd31bab02a2a728aaa70\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\7cdb33be9b2dd67831f1bb7f66827eca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\7cdb33be9b2dd67831f1bb7f66827eca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\a8583b34de403bc540855de5488bd4b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\a8583b34de403bc540855de5488bd4b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\57ccebe037f76764f3eb24c9d364392e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\57ccebe037f76764f3eb24c9d364392e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\eb401691167f8b8a0f605989953c36bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\eb401691167f8b8a0f605989953c36bb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\12fd5eb6df01f1c03d049e5cba0085a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\12fd5eb6df01f1c03d049e5cba0085a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\035ccb55ee968bbf9ef57de1172821bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\035ccb55ee968bbf9ef57de1172821bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\41fcef1a92b77b3ba8980ffe3de17c7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\41fcef1a92b77b3ba8980ffe3de17c7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\0adba16cdf89efcf347f22da9e3e82a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\0adba16cdf89efcf347f22da9e3e82a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\8611477093332e3309442a5a61de45f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\8611477093332e3309442a5a61de45f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\6f72a2043b8ed7777d9cad0cf88be70f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\6f72a2043b8ed7777d9cad0cf88be70f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\328c47f4d5c522c6011d72c7bb4ade74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\328c47f4d5c522c6011d72c7bb4ade74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\3e4b1c3b430329d7a0670f09a8c8a6e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\3e4b1c3b430329d7a0670f09a8c8a6e1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\02aa1360ee3782e7c509f9d1982b30e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\02aa1360ee3782e7c509f9d1982b30e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\9df46fb0a97318e190a41d0d8270be51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\9df46fb0a97318e190a41d0d8270be51\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\f10a9901600280615c81d2a7404d5f3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\f10a9901600280615c81d2a7404d5f3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\05f1d4876cbb6d33ed550ea3314e1425\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\05f1d4876cbb6d33ed550ea3314e1425\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\286e8ffb728127ad23d26aa7346eceb3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\286e8ffb728127ad23d26aa7346eceb3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\967820968b43db83f041f3e28230318e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\967820968b43db83f041f3e28230318e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\b3bc116b4b8b1e606820b38fa5aac648\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\b3bc116b4b8b1e606820b38fa5aac648\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\e466d358ac2e84ae4d047d335a9d0fbb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\e466d358ac2e84ae4d047d335a9d0fbb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\9e2f5411165c55fa9a7efbc7b5713125\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\9e2f5411165c55fa9a7efbc7b5713125\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\592804ff14c7398321e27510604df608\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\592804ff14c7398321e27510604df608\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\54e085a655e20ee14194789df605734f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\54e085a655e20ee14194789df605734f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\b8f4e9142130e71181ebbe82ae57d000\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\b8f4e9142130e71181ebbe82ae57d000\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\4ab63a319ea91604710e374d1c20e31f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Luka\.gradle\caches\transforms-2\files-2.1\4ab63a319ea91604710e374d1c20e31f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Luka\Desktop\projekt_lk_00\app\src\main\AndroidManifest.xml

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="naslov">38dp</dimen>
+    <dimen name="tv_ispod_naslova">16dp</dimen>
+    <dimen name="margina_ispod_naslova">20dp</dimen>
+    <dimen name="naslov_pitodg">20dp</dimen>
+</resources>
